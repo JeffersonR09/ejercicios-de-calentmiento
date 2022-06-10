@@ -1,2 +1,2 @@
-# ejercicios-de-calentmiento
- tarea de la clase
+# ejercicios-de-calentamiento
+ ejercicio de clase
